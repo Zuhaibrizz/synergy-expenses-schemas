@@ -1,0 +1,1 @@
+# synergy-expenses-schemas
